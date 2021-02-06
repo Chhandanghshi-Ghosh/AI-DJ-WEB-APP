@@ -1,0 +1,40 @@
+.btn-warning{
+    width: 100%;
+    margin-top: 0%;
+}
+h3{
+    font-size: 20px  !important;
+    }
+
+#span_note{
+    color: black;
+    font-size: 12px !important;
+}
+
+#rightDisk , #leftDisk{
+    width: 160px;
+    margin-left: 5px;
+    border-radius: 100px;
+    }
+
+.speed{
+    float: left;
+}
+
+.volume{
+    float: right;
+}
+body{
+    background-size:cover;
+}
+
+#copy_right_footer{
+    background-color: rgb(212, 5, 212);
+    line-height: 3;
+    color: whitesmoke;
+    bottom: 0%;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+}
+
