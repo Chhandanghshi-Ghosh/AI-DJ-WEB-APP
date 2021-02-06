@@ -38,3 +38,9 @@ body{
     text-align: center;
 }
 
+canvas{
+    border: solid white 3px;
+    border-radius: 12px;
+    box-shadow: 5px 5px 18px rgb(0, 238, 255);
+}
+
