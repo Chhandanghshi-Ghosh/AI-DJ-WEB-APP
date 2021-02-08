@@ -5,7 +5,7 @@ rightWristY=0
 rightWristX=0
 
 function preload(){
-    song = loadSound("music.mp3");
+    song = loadSound("ANPANMAN.mp3");
 }
 
 function setup(){
@@ -45,7 +45,7 @@ function draw(){
 function playButton(){
     song.play()
     song.setVolume(0.4)
-    song.rate(2.5)
+    song.rate(1)
  }
 
  function stopButton(){
