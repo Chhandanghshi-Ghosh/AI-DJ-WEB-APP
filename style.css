@@ -28,15 +28,7 @@ body{
     background-size:cover;
 }
 
-#copy_right_footer{
-    background-color: rgb(212, 5, 212);
-    line-height: 3;
-    color: whitesmoke;
-    bottom: 0%;
-    width: 100%;
-    position: fixed;
-    text-align: center;
-}
+
 
 canvas{
     border: solid white 3px;
