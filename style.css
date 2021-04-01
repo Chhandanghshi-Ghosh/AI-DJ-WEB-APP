@@ -1,38 +1,23 @@
-.btn-warning{
-    width: 100%;
-    margin-top: 0%;
-}
-h3{
-    font-size: 20px  !important;
-    }
-
-#span_note{
-    color: black;
-    font-size: 12px !important;
-}
-
-#rightDisk , #leftDisk{
-    width: 160px;
-    margin-left: 5px;
-    border-radius: 100px;
-    }
-
-.speed{
-    float: left;
-}
-
-.volume{
-    float: right;
-}
 body{
-    background-size:cover;
+    background-size: cover;
 }
 
-
+.heading{
+    width: 100%;
+    margin-top:0%;
+    font-size: medium;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 canvas{
-    border: solid white 3px;
-    border-radius: 12px;
-    box-shadow: 5px 5px 18px rgb(0, 238, 255);
+    border-radius: 10px;
+    border: whitesmoke solid 5px;
+    box-shadow: 8px 8px 15px rgb(189, 184, 184);
+    width: 380px;
+    height:350px;
 }
 
+#slider{
+    width: 400px;
+}
